@@ -1,0 +1,14 @@
+*.pyc
+*.egg-info
+*.xml
+*.o
+*.so
+*.log
+.settings
+build
+dist
+docs/sphinx/.build
+.DS_Store
+.idea
+.vscode
+__pycache__
